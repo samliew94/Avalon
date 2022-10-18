@@ -1,16 +1,23 @@
-# avalon
+# Avalon
 
-A new Flutter project.
+A companion app that eliminates the use of the Pre Game Ritual because it's awkward to use in office. 
+Come on. 
+"Close your eyes"
+Really?
 
-## Getting Started
+## How to use
 
-This project is a starting point for a Flutter application.
+Enter your names, set roles, press start, see personal role, remember names as needed. Done.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
+![home](/screenshots/home.png)
+![player-createplayer](/screenshots/player-createplayer.png)
+![player-playerlist](/screenshots/player-playerlist.png)
+![player-rolelist](/screenshots/role-rolelist.png)
+![game-reveal](/screenshots/game-reveal.png)
+![game-identity1](/screenshots/game-identity1.png)
+![game-identity2](/screenshots/game-identity2.png)
+![game-identity3](/screenshots/game-identity3.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
