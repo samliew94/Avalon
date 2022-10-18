@@ -1,12 +1,13 @@
 # Avalon
 
-A companion app that eliminates the use of the Pre Game Ritual because it can be awkward to use in public places.  
-"Everyone, close your eyes"  
+A companion app that eliminates the need for Pre Game Ritual because it's awkward to use in public places.  
+"Everyone close your eyes and extend your hand info a fist in front of you."    
+"Minions of Mordred open your eyes and look around so that you know all agents of Evil".  
 Really?
 
 ## How to use
 
-Enter your names, set roles, press start, see personal role, remember names as needed. Done.
+Enter your names, set roles, press start, each player reveals own role, remember names as needed. Done.
 
 ## Screenshots
 ![home](/screenshots/home.png)
