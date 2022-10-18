@@ -1,8 +1,7 @@
 # Avalon
 
-A companion app that eliminates the use of the Pre Game Ritual because it's awkward to use in office. 
-Come on. 
-"Close your eyes"
+A companion app that eliminates the use of the Pre Game Ritual because it can be awkward to use in public places.  
+"Everyone, close your eyes"  
 Really?
 
 ## How to use
